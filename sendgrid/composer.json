@@ -1,0 +1,10 @@
+{
+    "name": "jsantos/sendgrid",
+    "authors": [
+        {
+            "name": "plicas",
+            "email": "jorsantos86@gmail.com"
+        }
+    ],
+    "require": {}
+}
